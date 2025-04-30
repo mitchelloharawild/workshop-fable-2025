@@ -543,7 +543,7 @@
     "href": "slides/analysis/index.html#section-3",
     "title": "Tidy time series & forecasting in R",
     "section": "",
-    "text": "You!\nUseR! attendee\n\n🙋 Hi, who are you?\nHands up if…\n\n\n🧑‍💻 You’ve used R\n📊 You’ve analysed data\n🫧 Used tidyverse packages (dplyr, ggplot2…)\n📈 You’ve worked with time series data before\n🔮 You’ve produced a forecast before\n🤩 You’ve used fable!"
+    "text": "You!\n\n🙋 Hi, who are you?\nHands up if…\n\n\n🧑‍💻 You’ve used R\n📊 You’ve analysed data\n🫧 Used tidyverse packages (dplyr, ggplot2…)\n📈 You’ve worked with time series data before\n🔮 You’ve produced a forecast before\n🤩 You’ve used fable!"
   },
   {
     "objectID": "slides/analysis/index.html#section-4",
