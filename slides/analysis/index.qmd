@@ -133,8 +133,6 @@ Time series data and patterns
 
 ### You!
 
-#### UseR! attendee
-
 :::
 
 ::: {.column width="65%"}
