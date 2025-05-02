@@ -561,7 +561,7 @@ tribble(
 
 1. Tidy the data into a long format
 2. Appropriately class the time variable
-3. Convert to tsibble with `as_tibble()`, identifying the `index` and `key` variable(s).
+3. Convert to tsibble with `as_tsibble()`, identifying the `index` and `key` variable(s).
 
 ::: {.callout-caution}
 ## Follow along
