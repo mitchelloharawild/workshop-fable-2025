@@ -39,7 +39,7 @@
     "href": "slides/modelling/index.html#section-14",
     "title": "Tidy time series & forecasting in R",
     "section": "",
-    "text": "What makes forecasts good?\nGood forecasts…\n\n\nAre uncertain (probabilistic)\nUseful for decision making\nCapture patterns in the data\n\n\n\n\n\n\n\n\n\nGood forecasts aren’t necessarily accurate!\n\n\nUsually accuracy is important, but not always.\nForecasts (usually) assume that interventions won’t occur, e.g. COVID-19 measures."
+    "text": "What makes forecasts good?\nGood forecasts…\n\nAre uncertain (probabilistic)\nUseful for decision making\nCapture patterns in the data\n\n\n\n\n\n\n\n\nGood forecasts aren’t necessarily accurate!\n\n\nUsually accuracy is important, but not always.\nForecasts (usually) assume that interventions won’t occur, e.g. COVID-19 measures."
   },
   {
     "objectID": "slides/modelling/index.html#section-15",
@@ -543,7 +543,7 @@
     "href": "slides/analysis/index.html#section-3",
     "title": "Tidy time series & forecasting in R",
     "section": "",
-    "text": "You!\n\n🙋 Hi, who are you?\nHands up if…\n\n\n🧑‍💻 You’ve used R\n📊 You’ve analysed data\n🫧 Used tidyverse packages (dplyr, ggplot2…)\n📈 You’ve worked with time series data before\n🔮 You’ve produced a forecast before\n🤩 You’ve used fable!"
+    "text": "You!\n\n🙋 Hi, who are you?\nHands up if…\n\n🧑‍💻 You’ve used R\n📊 You’ve analysed data\n🫧 Used tidyverse packages (dplyr, ggplot2…)\n📈 You’ve worked with time series data before\n🔮 You’ve produced a forecast before\n🤩 You’ve used fable!"
   },
   {
     "objectID": "slides/analysis/index.html#section-4",
